@@ -17,4 +17,15 @@ body{
     justify-content: center;  
     
   }
+
+  div.box{
+    float: left;
+    width: 30%;
+  }
+  
+  main > section img {
+    height: 300px;
+    margin: 15px 0;
+    width: 300px;      
+  }
   
