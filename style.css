@@ -1,0 +1,20 @@
+body{
+    background-image: linear-gradient(
+        100deg,
+        #BA55D3 40%,
+        #DA70D6 80%,
+        #DDA0DD 40%
+    );
+    margin: 0;
+    min-height: 50vh;
+    width: 100%;
+  }
+  
+  main{
+    align-items: center;
+    display: flex;
+    height: 100vh;
+    justify-content: center;  
+    
+  }
+  
