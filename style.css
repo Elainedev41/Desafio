@@ -40,7 +40,21 @@ body{
     letter-spacing: -0.6px;
     line-height: 20px;    
     padding: 9px 23px;
-    text-transform: uppercase;
-    
+    text-transform: uppercase;    
+  }
+
+  #detalhes-container {
+    font-weight: bold;
+    list-style-type: none;    
+    width: 150%;
+  }
+  
+  #detalhes-container > li{
+    align-items: baseline;
+    display: flex;    
+  }
+  
+  #detalhes-container > li p{
+    color:white; 
   }
   
